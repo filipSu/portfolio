@@ -1,6 +1,6 @@
 # Personal portfolio
 
-You can find latest version running at: [www.filipsutovsky.me](www.filipsutovsky.me)
+You can find latest version running at: [http://www.filipsutovsky.me](www.filipsutovsky.me)
 
 ### Used technologies:
 
