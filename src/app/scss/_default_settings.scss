@@ -1,0 +1,84 @@
+$use-animations: true;
+/* COLORS */
+$main-background-linear-top: #272734;
+$main-background-linear-bottom: #1D1D2B;
+$main-background-color: #38384E;
+
+
+$sidebar-background-top: #f95e1e;
+$sidebar-background-bottom: #e53c6e;
+
+
+$info-panel-top-text: #FFF;
+$info-panel-text: #FBFBFD;
+
+$info-panel-project-subtitle: #E2E2E2;
+
+$info-panel-project-description-category: #E2E2E2;
+$info-panel-project-description-text: #FFF;
+
+$info-panel-picture-background-top: #ffa371;
+$info-panel-picture-background-bottom: #ff9395;
+
+$content-panel-background-top: #37374a;
+$content-panel-background-bottom: #35475a;
+$content-panel-border-color: #3F3F54;
+
+$projects-header: #FFF;
+
+$project-card-triangle-button-color: #812248;
+$project-card-hover-left-color: #C04848;
+$project-card-hover-right-color: #812248;
+$project-card-name-color: #FFF;
+$project-card-text-color: rgba(255, 255, 255, 0.65);
+$project-card-background: #38384E;
+$project-card-more-btn-border: #d24672;
+$project-card-more-btn-background-top: #a33252;
+$project-card-more-btn-background-bottom: #9e2f52;
+$project-card-more-btn-text: #FFF;
+
+$navigation-inactive-border: #BDBDEC;
+$navigation-active-background: #626281;
+
+$image-gallery-border-color: #38384E;
+$image-gallery-fullscreen-triangle-button-color: #812248;
+$image-gallery-fullscreen-triangle-button-image-color: #f38abb;
+
+/* Dimesions */
+
+$image-gallery-fullscreen-triangle-button-size: 85px;
+
+$projects-top-section-height: 40px;
+$projects-bottom-section-height: 40px;
+
+$project-card-triangle-button-size: 65px;
+
+$padding-xs: 4px;
+$padding-sm: 8px;
+$padding-md: 16px;
+$padding-lg: 16px;
+
+$social-icons-size: 38px;
+$social-icons-size-hover: 55px;
+
+$content-right-offset-sm: 160px;
+$content-top-offset-xs: 60px;
+$content-min-height: 600px;
+
+$panel-min-width: 335px;
+$panel-max-width-sm: 400px;
+
+$project-card-min-width: 310px;
+$project-card-max-width: 560px;
+$project-card-min-height: 170px;
+$project-card-max-height: 175px;
+$project-card-margin: 16px 0;
+
+$project-card-desc-header-height: 56px;
+$project-card-desc-close-size: 18px;
+$project-card-desc-platform-size: 28px;
+
+$sidebar-max-width: 480px;
+$sidebar-min-width: 302px;
+
+

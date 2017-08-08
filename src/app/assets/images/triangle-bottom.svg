@@ -1,0 +1,19 @@
+<svg width="1027" height="61" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <title>Polygon 2</title>
+ <desc>Created using Figma</desc>
+ <defs>
+  <path d="m511.44,0l513.82,56.9494l-1025.26,1.8007l511.44,-58.7501z" id="path0_fill"/>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g id="Canvas">
+   <g id="Polygon 2">
+    <use id="svg_1" x="989.991085" y="-476.102971" fill="#e53c6e" transform="matrix(-0.999998,-0.00212327,0.00212327,-0.999998,2017.05,-416.073) " xlink:href="#path0_fill"/>
+   </g>
+  </g>
+ </g>
+</svg>

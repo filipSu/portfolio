@@ -1,0 +1,16 @@
+<svg width="43" height="41" viewBox="0 0 43 41" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>ma</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-556 -227)" figma:type="canvas">
+<g id="ma" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path0_fill" fill="url(#pattern0)" transform="translate(556.762 227.808)" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+<defs>
+<pattern id="pattern0" patternUnits="objectBoundingBox" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0" transform="matrix(0.0078125 0 0 0.0078125 0 0)"/>
+</pattern>
+<path id="path0_fill" d="M 0 0L 41.279 0L 41.279 40.0499L 0 40.0499L 0 0Z"/>
+<image id="image0" width="128" height="128" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAALEwAACxMBAJqcGAAABJhJREFUeJzt3UuPFUUYxvH/QMLExCtiXBl15SUxukQgZow6uHGnC8REV8bL2rgwElmx4Jb4ERCNC6KgHwFQNyKREO8wJjrES8RRmBVzhkXRCSHQp/utOvXW6Xp+yRs3pKun6nHyTJ85Z0BEREREREREREREREREREREREREREREREREps9MhjXuAR4EbgfWZlhvCFaA88D3wG/O92KyHtgB/AysaqLmR+Ad4I5eJ+DoFeAf/DduaPM3sL37MeQ3A7yP/0YNffZ2PZDcduG/ObXMzo5nks08/ptS04yAJzudzBgpfgpYA5wmNH3J5xTwKCEQZmsS3Miz6PA9PAI8HXuRFAF4PsE1xCZ671ME4PEE1xCbTbEXSNEBloGbElxH+rsA3BJzgRTfAboe/klgIcF6Q3cG+Lbjv705drEUAejqB+Ax4KOMa06bA4Q9+inXgjkDALBEeJz5EvBf5rVLtgRsA14G/s+5cO4AND4kJP0Lp/VLcozw8/zHHot7BQDgLPAE4bHmiuN9eLlEeMV0DvjV91bidH182ZbwzYRAeD9izTW/ABtb9uNQj2tF8fwOcLXj1FMQm6L3lfeNQDkBgOEXRLei16akADSGWBBdi16bEgMAwymIgyl6bVKUwDabmM6COK7otclWAlPoeqMXgVeNa9wKHOyxlvccwP6M/nXC6yuDC0AznwB3GtfaTihT3gd8o/mXUPQsNgBHDGu6s2zU78BTxvXuJ/zY6H3Y185R4F7j1zQPLBrXdWfdsBGwG1hnWHMt8B6hZHkffFP0LG96WQfsI+yFdX13sRv4NfCAcW3vgngG+y/EPER4iTz2Htyl2MhpLIgfXFnbom/RG3wAmvmU8guiR9GrJgCrhIJo/W3XSRfEY8B9xnubB85N4J7cTWKjSyuIMUVvlviiV10AmjmB/T0HqQpiCUWv2gCsEgria8Z7iy2IMUXvDdIVvaoD0Mxh8hXEJeBF41obgM96rKUA9JhFJl8QSyx6CsBVMwL2kL4gllz0FIDrTMqCGFP0HmbyRU8BuMEsE18QD1J+0VMAxsxhQvnK5S7yFj0FoMMsAs9M+GsFn6KnAHScEeFDlCwFcZxZYD8+RU8B6DnfEJ7CpeJd9BQAwywTXnaNVULRUwAi5gi2glhS0VMAIuccobx1tZWyip4CkGBGhKd1sy1fS6lFTwFIOCcJpe5aJRc9BSDxLBPKXeNNyi56EwtAik8JKyKFRp9f+e9zrncRJ+oMaw/AEESdYanvDpZMFIDKKQCVUwAqpwBUTgGonAJQOQWgcgpA5RSAyikAlVMAKqcAVE4BqJwCULkUAbiY4BpicyH2AikCsJDgGmJzNvYCKQLwZYJriM3x2AukCMChBNcQmyL2fobwp8y9fzu2tjnR5XBymWO63kwx7bMCbOlyMONYPg/nehYI3wnmEl1P2r1L+NtKxdmN//8dQ59dnU/DyTbgL/w3amjzB/BCj3NwdRvwNnAa/42b9jkFvIX9bxC1SvHOoHHuJnyc23rSdY6huwScB74D/nS+FxEREREREREREREREREREREREREREREREREpzmUV2IUDeoi0wgAAAABJRU5ErkJggg=="/>
+</defs>
+</svg>

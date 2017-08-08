@@ -1,0 +1,26 @@
+<svg width="401" height="810" viewBox="0 0 401 810" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>info_container</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-233 421)" figma:type="canvas">
+<g id="info_container" style="mix-blend-mode:normal;" filter="url(#filter0_d)" figma:type="vector">
+<use xlink:href="#path0_fill" transform="translate(236.85 -420)" fill="url(#paint0_linear)" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_d" filterUnits="userSpaceOnUse" x="233" y="-421" width="402" height="810" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<desc>type="dropShadow" x="1" y="3" size="4" spread="0" color="0,0,0,0.22" blend="normal"</desc>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0"/>
+<feOffset dx="1" dy="3"/>
+<feGaussianBlur stdDeviation="2"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.22 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(2.40123e-14 802 -392.151 4.91083e-14 392.151 0)">
+<stop offset="0" stop-color="#FF6A00"/>
+<stop offset="1" stop-color="#E53A70"/>
+</linearGradient>
+<path id="path0_fill" d="M 392.151 0L 0 109.637L 0 695.868L 392.151 802L 392.151 0Z"/>
+</defs>
+</svg>

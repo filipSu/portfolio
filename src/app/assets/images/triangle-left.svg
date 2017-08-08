@@ -1,0 +1,23 @@
+<svg width="49" height="1030" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <title>Polygon 2</title>
+ <desc>Created using Figma</desc>
+ <defs>
+  <path d="m513.148,0l515.542,45.0832l-1028.69,1.4255l513.148,-46.5087z" id="path0_fill"/>
+  <linearGradient y2="0.476563" x2="1" y1="0.445313" x1="0" id="svg_6">
+   <stop offset="0" stop-opacity="0.996094" stop-color="#fa5f19"/>
+   <stop offset="1" stop-opacity="0.996094" stop-color="#e53a70"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g stroke="null" id="Canvas">
+   <g stroke="null" id="Polygon 2">
+    <use stroke="null" id="svg_1" x="509.365738" y="-2183.085887" fill="url(#svg_6)" transform="matrix(0.0022540861482286453,0.999998,1.0616085754785538,-0.00212327,2316.654545889979,-513.046) " xlink:href="#path0_fill"/>
+   </g>
+  </g>
+ </g>
+</svg>

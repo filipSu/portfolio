@@ -1,0 +1,45 @@
+div.image-gallery-bullets {
+  bottom: -40px;
+  button.image-gallery-bullet {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: #FFF;
+    box-shadow: none;
+    border: 1px solid $navigation-inactive-border;
+    &.active {
+      border: 1px solid $navigation-active-background;
+      background-color: $navigation-active-background;
+    }
+  }
+}
+
+div.image-gallery {
+  @media only screen and (min-width: $sm) and (max-width: $md) {
+    margin-top: 45px;
+    margin-bottom: 45px;
+  }
+  border: 10px solid $image-gallery-border-color;
+  div.image-gallery-content.fullscreen {
+    z-index: 1000;
+  }
+}
+
+button.image-gallery-fullscreen-button {
+  border-left: $image-gallery-fullscreen-triangle-button-size solid transparent;
+  border-right: $image-gallery-fullscreen-triangle-button-size solid $image-gallery-fullscreen-triangle-button-color;
+  border-top: $image-gallery-fullscreen-triangle-button-size solid transparent;
+  height: 0;  width: 0;
+  position: absolute;
+  right: 0;  bottom: 0;
+  z-index: 5;
+  transition: border-right 0.25s ease-in .25s;
+  &::before {
+    font-size: 2.0em;
+    position: absolute;
+    top: -46px;  right: -85px;
+    width: 18px;  height: 18px;
+    color: $image-gallery-fullscreen-triangle-button-image-color;
+  }
+}
