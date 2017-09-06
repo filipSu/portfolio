@@ -16,7 +16,7 @@ import {ProjectDetail} from './app/components/ProjectDetail';
 import NotFound from './app/components/NotFound';
 
 function initGA() {
-  ReactGA.initialize('UA-000000000-0');
+  ReactGA.initialize('UA-103566093-1');
   hashHistory.listen((location) => logPageView(location));
 }
 
